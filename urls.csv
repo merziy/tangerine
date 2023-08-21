@@ -1,0 +1,123 @@
+URL: https://www.juicyorange.com | Score: 0.55,,
+URL,Audit,Status
+https://www.juicyorange.com/,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/,Background and foreground colors have a sufficient contrast ratio,Passed
+https://www.juicyorange.com/,Document has a `<title>` element,Passed
+https://www.juicyorange.com/,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/,Links do not have a discernible name,Failed
+https://www.juicyorange.com/,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/about-us,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/about-us,Document has a `<title>` element,Passed
+https://www.juicyorange.com/about-us,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/about-us,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/about-us,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/about-us,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/about-us,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/about-us,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/about-us,Links do not have a discernible name,Failed
+https://www.juicyorange.com/about-us,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/contact,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/contact,Document has a `<title>` element,Passed
+https://www.juicyorange.com/contact,"`[id]` attributes on active, focusable elements are unique",Passed
+https://www.juicyorange.com/contact,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/contact,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/contact,Form elements have associated labels,Passed
+https://www.juicyorange.com/contact,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/contact,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/contact,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/contact,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/contact,`<frame>` or `<iframe>` elements do not have a title,Failed
+https://www.juicyorange.com/contact,Links do not have a discernible name,Failed
+https://www.juicyorange.com/contact,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/jon-smith,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/jon-smith,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/jon-smith,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/jon-smith,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/jon-smith,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/jon-smith,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/jon-smith,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/jon-smith,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/jon-smith,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/jon-smith,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/jon-smith,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/sarah-lee,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/sarah-lee,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/sarah-lee,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/sarah-lee,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/sarah-lee,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/sarah-lee,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/sarah-lee,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/sarah-lee,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/sarah-lee,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/sarah-lee,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/sarah-lee,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/alexander-mathis,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/alexander-mathis,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/alexander-mathis,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/alexander-mathis,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/alexander-mathis,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/alexander-mathis,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/alexander-mathis,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/alexander-mathis,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/alexander-mathis,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/alexander-mathis,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/alexander-mathis,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/bill-kim,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/bill-kim,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/bill-kim,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/bill-kim,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/bill-kim,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/bill-kim,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/bill-kim,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/bill-kim,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/bill-kim,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/bill-kim,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/bill-kim,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/mark-robohm,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/mark-robohm,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/mark-robohm,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/mark-robohm,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/mark-robohm,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/mark-robohm,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/mark-robohm,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/mark-robohm,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/mark-robohm,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/mark-robohm,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/mark-robohm,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/john-vaccaro,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/john-vaccaro,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/john-vaccaro,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/john-vaccaro,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/john-vaccaro,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/john-vaccaro,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/john-vaccaro,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/john-vaccaro,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/john-vaccaro,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/john-vaccaro,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/john-vaccaro,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,"`[aria-hidden=""true""]` is not present on the document `<body>`",Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,Document has a `<title>` element,Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,`<html>` element has a `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,`<html>` element has a valid value for its `[lang]` attribute,Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,Image elements have `[alt]` attributes,Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).,Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,"List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",Passed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,Buttons do not have an accessible name,Failed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,Background and foreground colors do not have a sufficient contrast ratio.,Failed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,Links do not have a discernible name,Failed
+https://www.juicyorange.com/the-team/dilshod-temirkhodjaev,"`[user-scalable=""no""]` is used in the `<meta name=""viewport"">` element or the `[maximum-scale]` attribute is less than 5.",Failed
